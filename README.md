@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emelia
+- 👀 I’m interested in writing and learning both technical and foreign languages.
+- 🌱 I’m currently learning basic HTML, CSS, Javascript, and Mandarin.
+- 💞️ I’m looking to collaborate on technical documentations on open soruce projects. 
+- 📫
